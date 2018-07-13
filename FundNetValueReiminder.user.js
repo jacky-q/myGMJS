@@ -1,8 +1,9 @@
 /************UserScript*************
  * @name    fund netvalue reminder
  * @description  基金净值提示
- * @version  1
+ * @version  2
  * @namespace net.jacky-q.userscript
+ * @updateURL	https://github.com/jacky-q/myGMJS/blob/master/FundNetValueReiminder.user.js
  * @grant    GM_xmlhttpRequest
  * @require     http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
  * @include http://www.1234567.com.cn/
