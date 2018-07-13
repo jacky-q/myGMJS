@@ -1,13 +1,13 @@
-/************UserScript*************
- * @name    FundNetValueReminder
- * @description  基金净值提示
- * @version  2
- * @namespace net.jacky-q.userscript
- * @updateURL	https://github.com/jacky-q/myGMJS/blob/master/FundNetValueReiminder.user.js
- * @grant    GM_xmlhttpRequest
- * @require     http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
- * @include http://www.1234567.com.cn/
-***********************************/
+// ==UserScript==
+// @name    FundNetValueReminder
+// @description  基金净值提示
+// @version  2
+// @namespace net.jacky-q.userscript
+// @updateURL	https://github.com/jacky-q/myGMJS/blob/master/FundNetValueReiminder.user.js
+// @grant    GM_xmlhttpRequest
+// @require     http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
+// @include http://www.1234567.com.cn/
+// ==/UserScript==
 var MONITOR_THRESHOD = 0.0;
 var MONITOR_GIVEUP_THRESHOLD = 0.05;
 var MONITOR_LOCATION = "http://fund.eastmoney.com/f10/jjjz_%fund_code%.html";
