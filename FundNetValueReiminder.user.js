@@ -1,5 +1,5 @@
 /************UserScript*************
- * @name    fund netvalue reminder
+ * @name    FundNetValueReminder
  * @description  基金净值提示
  * @version  2
  * @namespace net.jacky-q.userscript
